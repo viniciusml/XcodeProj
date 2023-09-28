@@ -2,7 +2,7 @@ import Foundation
 import XCTest
 import AEXML
 import PathKit
-@testable import XcodeProj
+@testable import XcodeProjj
 
 final class XCSchemeManagementTests: XCTestCase {
     func test_init_from_path() throws {

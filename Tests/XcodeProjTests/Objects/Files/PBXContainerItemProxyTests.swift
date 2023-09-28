@@ -1,6 +1,6 @@
 import Foundation
 import XCTest
-@testable import XcodeProj
+@testable import XcodeProjj
 
 final class PBXContainerItemProxyTests: XCTestCase {
     func test_itHasTheCorrectIsa() {

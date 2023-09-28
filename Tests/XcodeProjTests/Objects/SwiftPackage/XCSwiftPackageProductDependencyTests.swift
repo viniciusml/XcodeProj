@@ -1,7 +1,7 @@
 import Foundation
 import XCTest
 
-@testable import XcodeProj
+@testable import XcodeProjj
 
 final class XCSwiftPackageProductDependencyTests: XCTestCase {
     func test_init() throws {

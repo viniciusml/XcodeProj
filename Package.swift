@@ -3,9 +3,9 @@
 import PackageDescription
 
 let package = Package(
-    name: "XcodeProj",
+    name: "XcodeProjj",
     products: [
-        .library(name: "XcodeProj", targets: ["XcodeProj"]),
+        .library(name: "XcodeProjj", targets: ["XcodeProjj"]),
     ],
     dependencies: [
         .package(url: "https://github.com/tadija/AEXML.git", .upToNextMinor(from: "4.6.1")),
@@ -13,11 +13,11 @@ let package = Package(
         .package(url: "https://github.com/apple/swift-docc-plugin", from: "1.3.0")
     ],
     targets: [
-        .target(name: "XcodeProj",
+        .target(name: "XcodeProjj",
                 dependencies: [
                     "PathKit",
                     "AEXML",
                 ]),
-        .testTarget(name: "XcodeProjTests", dependencies: ["XcodeProj"]),
+        .testTarget(name: "XcodeProjTests", dependencies: ["XcodeProjj"]),
     ]
 )

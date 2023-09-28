@@ -1,5 +1,5 @@
 import Foundation
-@testable import XcodeProj
+@testable import XcodeProjj
 
 extension Decodable {
     /// Initialies the Decodable object with a JSON dictionary.

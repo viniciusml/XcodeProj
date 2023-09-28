@@ -69,7 +69,7 @@ git tag that represents the project’s version:
 ```swift
 #!/usr/bin/swift sh
 import Foundation
-import XcodeProj  // @tuist ~> 8.8.0
+import XcodeProjj  // @tuist ~> 8.8.0
 import PathKit
 
 guard CommandLine.arguments.count == 3 else {

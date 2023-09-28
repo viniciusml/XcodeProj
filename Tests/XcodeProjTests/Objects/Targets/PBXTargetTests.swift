@@ -1,7 +1,7 @@
 import Foundation
 import XCTest
 
-@testable import XcodeProj
+@testable import XcodeProjj
 
 final class PBXTargetTests: XCTestCase {
     var subject: PBXTarget!

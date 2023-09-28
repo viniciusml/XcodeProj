@@ -1,7 +1,7 @@
 import Foundation
 import PathKit
 import XCTest
-@testable import XcodeProj
+@testable import XcodeProjj
 
 final class PBXProjIntegrationTests: XCTestCase {
     func test_init_initializesTheProjCorrectly() {

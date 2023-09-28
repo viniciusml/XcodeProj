@@ -1,4 +1,4 @@
-@testable import XcodeProj
+@testable import XcodeProjj
 import XCTest
 
 final class XCSchemeBuildableReferenceTests: XCTestCase {

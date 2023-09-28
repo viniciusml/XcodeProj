@@ -1,6 +1,6 @@
 import Foundation
 
-@testable import XcodeProj
+@testable import XcodeProjj
 
 extension PBXSourcesBuildPhase {
     static func fixture(files: [PBXBuildFile] = []) -> PBXSourcesBuildPhase {

@@ -1,5 +1,5 @@
 import XCTest
-@testable import XcodeProj
+@testable import XcodeProjj
 
 final class PBXProjectTests: XCTestCase {
     func test_attributes() throws {

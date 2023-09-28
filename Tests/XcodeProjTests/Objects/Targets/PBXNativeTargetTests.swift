@@ -1,6 +1,6 @@
 import Foundation
 import XCTest
-@testable import XcodeProj
+@testable import XcodeProjj
 
 final class PBXNativeTargetTests: XCTestCase {
     func test_isa_returnsTheCorrectValue() {

@@ -1,6 +1,6 @@
 
 import XCTest
-@testable import XcodeProj
+@testable import XcodeProjj
 
 class PBXOutputSettingsTests: XCTestCase {
     // MARK: - PBXFileOrder - PBXBuldFile

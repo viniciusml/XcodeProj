@@ -1,7 +1,7 @@
 import Foundation
 import PathKit
 import XCTest
-@testable import XcodeProj
+@testable import XcodeProjj
 
 class ReferenceGeneratorTests: XCTestCase {
     func test_projectReferencingRemoteXcodeprojBundle_convertsReferencesToPermanent() throws {

@@ -1,6 +1,6 @@
 import PathKit
 import XCTest
-@testable import XcodeProj
+@testable import XcodeProjj
 
 final class PathExtrasTests: XCTestCase {
     func testThat_GivenAbsoluteSubPath_WhenRelativeToAbsoluteSuperPath_ThenResultIsTheRemainder() {
